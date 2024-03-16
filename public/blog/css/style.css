@@ -205,7 +205,7 @@
     .sticky-top.navbar-light {
         position: relative;
         background: var(--bs-white) !important;
-        padding: 0 20px 20px 20px !important;
+        padding: 0 0px 20px 20px !important;
     }
 
     .sticky-top.navbar-light {
