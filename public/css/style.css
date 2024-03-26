@@ -1,10 +1,10 @@
 
 :root {
-    --primary: #F74780;
+    --primary: #E61B72;
     --secondary: #E93C05;
     --tertiary: #555555;
     --light: #DFE4FD;
-    --dark: #011A41;
+    --dark: #28348A;
 }
 
 .back-to-top {
@@ -37,7 +37,7 @@ font-size: 20px;
 }
 
 .header_II {
-    font-size: 22px;
+    font-size: 20px;
         
     }
 
