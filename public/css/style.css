@@ -15,6 +15,14 @@
     z-index: 99;
 }
 
+body {
+    overflow-x: hidden;
+}
+
+.maxwdt {
+    max-width: 800px;
+}
+
 h1,
 .h1,
 h2,
