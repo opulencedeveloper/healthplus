@@ -22,6 +22,14 @@ body {
     overflow-x: hidden;
 }
 
+.abb{
+    display: none
+}
+
+.abb_II{
+    display: block;
+}
+
 .point-style {
     display: flex;
     flex-direction: row;
@@ -150,6 +158,14 @@ h6,
 }
 
 @media (max-width: 991.98px) {
+    .abb{
+        display: block;
+        
+    }
+    
+    .abb_II{
+        display: none;
+    }
     .navbar .navbar-nav {
         margin-top: 10px;
         border-top: 1px solid rgba(0, 0, 0, .07);
